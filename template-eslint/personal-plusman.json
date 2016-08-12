@@ -49,6 +49,10 @@
         "space-before-blocks": [
           "error",
           "always"
+        ],
+        "no-trailing-spaces": [
+          "error",
+          "always"
         ]
     },
     "globals":{
